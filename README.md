@@ -1,0 +1,4 @@
+finger-excercise
+================
+
+Course stuff
